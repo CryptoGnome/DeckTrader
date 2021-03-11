@@ -1,0 +1,11 @@
+{
+    "symbol": "BNB",
+    "leverage": 10,
+    "limitOffset": 0.0075,
+    "smallOrderSize": 1,
+    "largeOrderSize": 3,
+    "ladderOrderSize": 10,
+    "limitPartialSize": 25,
+    "key": "apikeyhere",
+    "secret": "apisecrethere"
+}
